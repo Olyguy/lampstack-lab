@@ -1,4 +1,3 @@
-# lampstack-lab
 # Lampstack-Lab
 
 ## Description
